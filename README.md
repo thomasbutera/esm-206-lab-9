@@ -6,8 +6,8 @@ Includes:
 (1) SLO homes dataset with variables
 
 - square footage (SqFt)
-- # bedrooms (Bedrooms)
-- # bathrooms (Bathrooms)
+- number bedrooms (Bedrooms)
+- number bathrooms (Bathrooms)
 - price per square foot ($) (PricePerSqFt)
 - City name (City)
 - Sale status (Status, levels: Regular, Short Sale, Foreclosure)
