@@ -12,4 +12,4 @@ Includes:
 - City name (City)
 - Sale status (Status, levels: Regular, Short Sale, Foreclosure)
 
-(2) .Rmd template that you'll use to complete the lab
+(2) .Rmd template (lab_9_template.Rmd) that you'll use to complete the lab
