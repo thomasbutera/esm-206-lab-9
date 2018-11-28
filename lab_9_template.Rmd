@@ -1,6 +1,6 @@
 ---
 title: "Lab 9 - Multiple Linear Regression"
-author: "Allison"
+author: "ENTER YOUR NAME HERE"
 output:
   html_document: default
 ---
