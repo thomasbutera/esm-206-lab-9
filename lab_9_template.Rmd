@@ -1,6 +1,6 @@
 ---
 title: "Lab 9 - Multiple Linear Regression"
-author: "ENTER YOUR NAME HERE"
+author: "Thomas Butera test"
 output:
   html_document: default
 ---
@@ -30,8 +30,8 @@ Use this template to follow along in Lab Week 9. Each code chunk you'll need is 
 ```{r packages, include = FALSE}
 
 # a. Load packages 'tidyverse' and 'stargazer':
-
-
+library(tidyverse)
+library(stargazer)
 
 ```
 
